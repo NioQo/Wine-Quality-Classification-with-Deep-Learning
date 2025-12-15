@@ -91,4 +91,3 @@ Nicolas Salinas
 
 ---
 
-This project is part of a Data Science training program and is intended for educational and portfolio purposes.
